@@ -30,7 +30,7 @@
   1. **QR코드 스캔 → URL 추출**  
   2. **Google Safe Browsing API**를 통한 악성 사이트 실시간 탐지  
   3. **머신러닝 기반 URL 분석**으로 신규/의심 사이트 판별
-  4. 
+     
 ---
 
 ## 📑 Repository Usage
